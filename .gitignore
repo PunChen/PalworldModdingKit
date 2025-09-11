@@ -143,3 +143,6 @@ Binaries
 Build
 output
 .vs
+# blueprint files
+!ModPaks/*.pak
+!*.uasset
